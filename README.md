@@ -1,0 +1,1 @@
+This project is a streamlit ui in which we can add a product and add review of that purticular product .after enter the review shows the sentiment of that purticular product and also shows the past review of that purticular product and also shows the averall sentiment of that product by considering the past reviews
